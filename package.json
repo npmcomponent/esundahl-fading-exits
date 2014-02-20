@@ -1,0 +1,18 @@
+{
+  "name": "esundahl-fading-exits",
+  "description": "fading exit animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-fade-out": "git://github.com/npmcomponent/esundahl-fade-out.git",
+    "esundahl-fade-out-up": "git://github.com/npmcomponent/esundahl-fade-out-up.git",
+    "esundahl-fade-out-down": "git://github.com/npmcomponent/esundahl-fade-out-down.git",
+    "esundahl-fade-out-left": "git://github.com/npmcomponent/esundahl-fade-out-left.git",
+    "esundahl-fade-out-right": "git://github.com/npmcomponent/esundahl-fade-out-right.git",
+    "esundahl-fade-out-up-big": "git://github.com/npmcomponent/esundahl-fade-out-up-big.git",
+    "esundahl-fade-out-down-big": "git://github.com/npmcomponent/esundahl-fade-out-down-big.git",
+    "esundahl-fade-out-left-big": "git://github.com/npmcomponent/esundahl-fade-out-left-big.git",
+    "esundahl-fade-out-right-big": "git://github.com/npmcomponent/esundahl-fade-out-right-big.git"
+  },
+  "license": "MIT"
+}
